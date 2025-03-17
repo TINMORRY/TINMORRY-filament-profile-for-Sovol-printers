@@ -1,0 +1,34 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "PLA-Matte(Sovol Sv06 Plus-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Sovol Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA-Matte(Sovol Sv06 Plus-Orca-TINMORRY)",
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "version": "2.2.0.4"
+}
